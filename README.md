@@ -1,0 +1,2 @@
+# updateplugin
+check plugin update
